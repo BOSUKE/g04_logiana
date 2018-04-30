@@ -5,7 +5,7 @@ Verilog HDLコードと、それを制御するためのPC側のPythonスクリ�
 
 ## 同人誌「趣味のFPGA入門」について
 
-下記URLを参照願います。
+下記URLを参照願います。  
 http://d-rissoku.net/サークルサポート/趣味のfpga入門技術書典２/
 
 PDF版をBOOTHにて販売中です。  
