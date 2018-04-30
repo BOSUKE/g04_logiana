@@ -1,0 +1,9 @@
+http://www.cypress.com/documentation/models/cy7c1019dv33-vhdl より
+CY7C1019DV33.zip をダウンロードして、このディレクトリに解凍してください。
+以下の3ファイルが zip ファイル内にアーカイブされているはずです。
+
+	async_128Kx8.vhd
+	package_timing.vhd
+	package_utility.vhd
+
+
